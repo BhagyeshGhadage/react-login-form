@@ -1,0 +1,45 @@
+.welcome-wrapper {
+    display: flex;    
+    width: 100%;    
+}
+
+.welcome-wrapper .item-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 950px;
+    margin: auto;
+    background: #18465d;
+    border-radius: 10px;
+    padding: 10px 0 30px;
+    height: 600px;
+    text-align: center;
+}
+
+.welcome-wrapper h2{   
+    color: #ffffff;
+    font-size: 40px;
+}
+
+.welcome-wrapper .text{
+    font-size: 20px;
+    color: #fff;
+    padding: 0px 90px;
+    text-align: left;
+}
+
+.welcome-wrapper .btn{
+    position: absolute;
+    top:0;
+    right:0px;
+}
+
+.welcome-wrapper .item-data {
+    width: 100%;
+}
+
+.welcome-wrapper .item-data .input-icon{
+    position: relative;
+    top: 3px;
+    margin-right: 5px;
+}
