@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-login-form/static/css/main.b89d3680.chunk.css",
+    "main.js": "/react-login-form/static/js/main.60e7821b.chunk.js",
+    "main.js.map": "/react-login-form/static/js/main.60e7821b.chunk.js.map",
+    "runtime-main.js": "/react-login-form/static/js/runtime-main.79999fa0.js",
+    "runtime-main.js.map": "/react-login-form/static/js/runtime-main.79999fa0.js.map",
+    "static/js/2.c8c08397.chunk.js": "/react-login-form/static/js/2.c8c08397.chunk.js",
+    "static/js/2.c8c08397.chunk.js.map": "/react-login-form/static/js/2.c8c08397.chunk.js.map",
+    "static/js/3.65d381a7.chunk.js": "/react-login-form/static/js/3.65d381a7.chunk.js",
+    "static/js/3.65d381a7.chunk.js.map": "/react-login-form/static/js/3.65d381a7.chunk.js.map",
+    "index.html": "/react-login-form/index.html",
+    "static/css/main.b89d3680.chunk.css.map": "/react-login-form/static/css/main.b89d3680.chunk.css.map",
+    "static/js/2.c8c08397.chunk.js.LICENSE.txt": "/react-login-form/static/js/2.c8c08397.chunk.js.LICENSE.txt",
+    "static/media/Form.css": "/react-login-form/static/media/background.a5f3c2b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79999fa0.js",
+    "static/js/2.c8c08397.chunk.js",
+    "static/css/main.b89d3680.chunk.css",
+    "static/js/main.60e7821b.chunk.js"
+  ]
+}
